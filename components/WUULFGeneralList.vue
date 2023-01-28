@@ -1,8 +1,12 @@
 <script setup>
 
 const { data: wuulfgeneralinfo } = useAsyncData("wuulfgeneralinfo", () => {
-  return queryContent("/wuulfgeneralinfo").find();
+  return queryContent("/wuulfgeneralinfo").sort({date: -1}).find();
 });
+
+// const postsSorted = reactive({
+//   wuulfgeneralinfo: wuulfgeneralinfo.sortBy('date', 'asc')
+// })
 </script>
 
 <template>

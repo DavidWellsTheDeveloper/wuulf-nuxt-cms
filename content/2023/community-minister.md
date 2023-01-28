@@ -1,7 +1,7 @@
 ---
 title: "Community Minister"
 author: "Dave Wells"
-date: "2023-01-09"
+date: "2023-01-21"
 description: "Rev. Addae Ama Kraba will join us in 2023 as our community minister"
 image: "/images/Staff/kraba.jpg"
 ---

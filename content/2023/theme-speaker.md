@@ -1,7 +1,7 @@
 ---
 title: "Theme Speaker"
 author: "Dave Wells"
-date: "2023-01-09"
+date: "2023-01-21"
 description: "We're pleased to announce our 2023 Theme Speaker: Rev. Bob LaVallee"
 image: "/images/Staff/bob.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Board Members"
 author: "Dave Wells"
-date: "2023-01-09"
+date: "2023-01-20"
 description: "Meet the 2023 WUULF Board"
 image: "/images/Landscapes/flowers.jpg"
 ---

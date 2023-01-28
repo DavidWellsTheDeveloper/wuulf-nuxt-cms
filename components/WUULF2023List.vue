@@ -1,7 +1,7 @@
 <script setup>
 
 const { data: wuulf2023 } = useAsyncData("2023", () => {
-  return queryContent("/2023").find();
+  return queryContent("/2023").sort({date: -1}).find();
 });
 </script>
 
