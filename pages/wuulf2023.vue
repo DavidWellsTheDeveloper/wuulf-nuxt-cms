@@ -10,7 +10,7 @@
 
 <script>
   export default {
-    name: "Wuulf 2023"
+    name: "Wuulf2023"
   }
 </script>
 

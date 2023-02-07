@@ -1,6 +1,6 @@
 <template>
-  <figure class="image is-128X128">
-    <img :src="url" :alt="alt" />
+  <figure class="image">
+    <img :src="url" :alt="alt" class="spotlight-img" />
   </figure>
 </template>
 
@@ -36,5 +36,11 @@ const props = defineProps({
 .counter button {
   font-size: 1rem;
   padding: 5px;
+}
+
+.spotlight-img {
+  border: 5px solid green;
+  max-width: 500px;
+  height: auto;
 }
 </style>

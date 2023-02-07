@@ -19,4 +19,9 @@ const isMobileNavOpen = ref(false)
   </nav>
 </template>
 
-<style></style>
+<style>
+.navbar-brand {
+  text-decoration: blue underline;
+  margin-right: 10px;
+}
+</style>

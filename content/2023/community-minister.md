@@ -3,17 +3,17 @@ title: "Community Minister"
 author: "Dave Wells"
 date: "2023-01-21"
 description: "Rev. Addae Ama Kraba will join us in 2023 as our community minister"
-image: "/images/Staff/kraba.jpg"
+image: "/images/Staff/kraba.webp"
 ---
 
 # WUULF 2023 Minister
 
 ### Rev. Addae Ama Kraba 
 
-Reverend Addae Ama Kraba joined [Unitarian Universalists of New Braunfels](https://www.uunb.org/) as our part-time minister beginning October 1, 2017. An ordained Unitarian Universalist Minister, she earned a Master’s of Divinity from the Starr King School for the Ministry in Berkeley, California, immediately after receiving a Bachelor of Science in Organizational Behavior from the University of San Francisco. Rev. Kraba was ordained by Community Church of New York, Unitarian Universalist, where she also served her internship. Soon after, she began her ministerial career with a call to settle as full-time minister of [First Universalist Church of Southold](http://firstuniversalistsouthold.org/), Long Island, New York, from 2006 to 2010. Since then she has served as both Parish and Community minister in New Jersey, Pennsylvania and Texas.
+Reverend Addae Ama Kraba (she/her) was ordained in the Unitarian Universalist Denomination, after earning a Master of Divinity from Starr King School for the Ministry in Berkeley, California. Prior to attending seminary, she earned a Bachelor of Science in Organizational Behavior from the University of San Francisco. Rev. Addae began her ministry with a call to the [First Universalist Church of Southold](http://firstuniversalistsouthold.org/), New York. This established her as the first minister of color to settle in the congregation’s 150-year history.
 
-Actively working at all levels of service in Unitarian Universalism, Rev. Kraba was called to provide pastoral care in New Orleans, Louisiana, after hurricane Katrina, and again to the Knoxville Unitarian Universalist Church in Tennessee folloiwng the shooting. She served as a trustee for the Murray Grove Retreat and Conference Center in Lanoka Harbor, New Jersey, and on the board of the Joseph Priestly District, [Unitarian Universalist Association’s Committee on Anti-Racism, Anti-Oppression, and Multiculturalism](https://www.uuma.org/page/comaraom).
+She has served at all levels of the denomination, beginning with the [Unitarian Universalist Association’s Committee on Anti-Racism, Anti-Oppression, and Multiculturalism](https://www.uuma.org/page/comaraom) of the Unitarian Universalist Minister’s Association, trustee on the board of the Murray Grove Retreat and Conference Center in Lanoka Harbor, New Jersey, and the board of the Joseph Priestly District.  She currently serves the [Unitarian Universalists of New Braunfels](https://www.uunb.org/).
 
-An avid supporter of women’s rights, Rev. Kraba formerly served as Co-Convener of Unitarian Universalist Women and Religion, and also served on the planning committees of both the first [International Unitarian Universalist Convocation of Women](https://www.intlwomensconvo.org/), (IUUCW) held in Houston, Texas, in 2008, and the third held in Pacifica, California, in 2017. She was welcomed as a member of IUUCW board at General Assembly held in New Orleans, Louisiana in 2017 and served as president from 2018-2020.
+As adjunct faculty Rev. Addae taught classes on “Sacred Rest” and “Her Story: African Goddess’s” at Starr King School for the Ministry. She has published work in “She is Everywhere, Vol II an anthology of Writing in Womanist/Feminist Spirituality, Lifting Our Voices, Readings in The Living Tradition, Voices from The Margins an anthology of Meditations, and Conversations with the Sacred, a collection of prayers”. 
 
 #### WUULF looks forward to welcoming Rev. Addae to our community this year!

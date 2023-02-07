@@ -11,19 +11,19 @@ image: "/images/Landscapes/flowers.jpg"
 ### Sarah Weed
 ##### WUULF Director
 
-<Spotlight url="/images/Staff/sarah.jpg" alt="Sarah Weed"></Spotlight>
+<Spotlight url="/images/Staff/sarah-weed.jpg" alt="Sarah Weed"></Spotlight>
 
 
-Some information about Sarah
+A lifelong UU, Sarah first attended Wuulf in 2017 after several years of turmoil:  the death of both her parents, the end of her marriage, and a cross country move.  She was in need of healing, compassion, and fun and found them at Wuulf!  When she's not at Wuulf, Sarah works at Columbine UU Church in Littleton, Colorado, and raises her two teenaged sons.
 
 ---
 
 ### Spencer Hachmeister
 ##### Ghost Ranch and Beyond
 
-<Spotlight url="/images/Staff/spencer.jpg" alt="Spencer Hachmeister"></Spotlight>
+<Spotlight url="/images/Staff/spencer-hachmeister.jpg" alt="Spencer Hachmeister"></Spotlight>
 
-Some information about Spencer
+Spencer started attending WUULF when he was 9 and has attended every opportunity since then. This is his second stint on the WUULF board and had previously been responsible for leading the young adult program, communications director, as well as off site director. Outside of WUULF Spencer spends his time playing with with software and figuring out how to automate growing food.
 
 ---
 
@@ -50,6 +50,8 @@ Some information about Kiver
 
 <Spotlight url="/images/Staff/dave.jpg" alt="David Wells"></Spotlight>
 
-Some information about David
+Dave like so many other WUULFies, was heard all the wonderful things about WUULF from friends who have been attending for many years. He attended the first 3 years as a Coywolf teacher (high school), and has been on the board for 4 years.
+
+In his free time, Dave plays recreational ice hockey, dabbles in painting and drawing, and can often be found chillin at the dog park with his dog Lucas.
 
 ---
